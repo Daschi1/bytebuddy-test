@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'de.compilerbau'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
